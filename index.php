@@ -13,6 +13,8 @@ $film = query("SELECT * FROM katalog_film")
 </head>
 <body>
     <h1>Katalog Film</h1>
+    <a href="tambah.php">Tambah Katalog</a>
+    <br> </br>
 
     <table border="1" cellpadding="10" cellspasing="0">
         <tr>
